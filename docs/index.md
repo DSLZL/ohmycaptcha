@@ -2,6 +2,10 @@
 
 <div class="hero hero--light" markdown>
 
+<div class="hero__visual">
+  <img src="assets/ohmycaptcha-hero.png" alt="OhMyCaptcha — self-hostable captcha solving service">
+</div>
+
 <div class="hero__copy" markdown>
 
 ## ⚡ Self-hostable captcha solving with a clean YesCaptcha-style API
@@ -16,10 +20,6 @@ OhMyCaptcha combines **FastAPI**, **Playwright**, and **OpenAI-compatible multim
 
 </div>
 
-</div>
-
-<div class="hero__visual">
-  <img src="assets/ohmycaptcha-hero.png" alt="OhMyCaptcha architecture diagram">
 </div>
 
 </div>
